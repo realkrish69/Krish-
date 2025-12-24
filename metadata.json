@@ -1,0 +1,8 @@
+{
+  "name": "NEO-THREAD: Futuristic 3D Fashion",
+  "description": "A premium, futuristic 3D clothing e-commerce platform featuring immersive 3D interactions, AI-powered styling, and a seamless shopping experience.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
